@@ -73,6 +73,7 @@
                     <skipTests>true</skipTests>
                 </configuration>
             </plugin>
+
         </plugins>
         <finalName>UserMicroservice</finalName>
     </build>
